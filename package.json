@@ -35,7 +35,7 @@
 	],
 	"dependencies": {
 		"common-path-prefix": "^3.0.0",
-		"pkg-dir": "^7.0.0"
+		"pkg-dir": "^8.0.0"
 	},
 	"devDependencies": {
 		"ava": "^5.3.1",
